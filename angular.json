@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "ilk-angular"
+  "defaultProject": "ilk-angular",
+  "cli": {
+    "analytics": "8690a3cd-ffb7-483b-bb7a-992c72c0d601"
+  }
 }
